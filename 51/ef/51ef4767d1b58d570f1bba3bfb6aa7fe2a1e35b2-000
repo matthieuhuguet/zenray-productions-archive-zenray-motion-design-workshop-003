@@ -1,0 +1,167 @@
+{
+ "date": "12 October 2026",
+ "mark": "t-air-gap",
+ "from_mark_version": "V_002",
+ "build": {
+  "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-air-gap/V_001/font.ttf",
+  "sha256": "78deb1c2336f2dd6e89e7b5027b83acd08857a1296a6fdef4c0452ccd630f05d",
+  "bytes": 56944
+ },
+ "score_built": {
+  "iou": 0.770969,
+  "edge_mean": 0.9562,
+  "edge_p95": 4.1231,
+  "loss": 0.23859334879162536
+ },
+ "trace": [
+  {
+   "stage": "identity",
+   "iou": 0.657422,
+   "edge_mean": 1.4096,
+   "edge_p95": 6.7082,
+   "loss": 0.3566737682753339
+  },
+  {
+   "stage": "size starts",
+   "iou": 0.629123,
+   "edge_mean": 1.5575,
+   "edge_p95": 6.7082,
+   "loss": 0.38645185088006506
+  },
+  {
+   "stage": "spacing 2",
+   "iou": 0.648107,
+   "edge_mean": 1.4935,
+   "edge_p95": 7.0,
+   "loss": 0.36682807228361686
+  },
+  {
+   "stage": "globals 2",
+   "iou": 0.641371,
+   "edge_mean": 1.5004,
+   "edge_p95": 7.0,
+   "loss": 0.3736326150984377
+  },
+  {
+   "stage": "spacing 3",
+   "iou": 0.64417,
+   "edge_mean": 1.4675,
+   "edge_p95": 7.0,
+   "loss": 0.37050494005572254
+  },
+  {
+   "stage": "globals 3",
+   "iou": 0.648105,
+   "edge_mean": 1.453,
+   "edge_p95": 7.0,
+   "loss": 0.3664252101028412
+  },
+  {
+   "stage": "offsets",
+   "iou": 0.774528,
+   "edge_mean": 0.9442,
+   "edge_p95": 4.0,
+   "loss": 0.23491367092717613,
+   "snap": {
+    "iterations": 15,
+    "accepted": 6,
+    "final_damping": 0.0012,
+    "log": [
+     [
+      0,
+      0.6,
+      0.689316,
+      true
+     ],
+     [
+      1,
+      0.6,
+      0.722857,
+      true
+     ],
+     [
+      2,
+      0.6,
+      0.750991,
+      true
+     ],
+     [
+      3,
+      0.6,
+      0.76736,
+      true
+     ],
+     [
+      4,
+      0.6,
+      0.774215,
+      true
+     ],
+     [
+      5,
+      0.6,
+      0.774323,
+      false
+     ],
+     [
+      6,
+      0.3,
+      0.774194,
+      false
+     ],
+     [
+      7,
+      0.15,
+      0.773833,
+      false
+     ],
+     [
+      8,
+      0.075,
+      0.774527,
+      true
+     ],
+     [
+      9,
+      0.075,
+      0.773833,
+      false
+     ],
+     [
+      10,
+      0.0375,
+      0.774308,
+      false
+     ],
+     [
+      11,
+      0.0187,
+      0.774484,
+      false
+     ],
+     [
+      12,
+      0.0094,
+      0.774431,
+      false
+     ],
+     [
+      13,
+      0.0047,
+      0.774359,
+      false
+     ],
+     [
+      14,
+      0.0023,
+      0.774333,
+      false
+     ]
+    ]
+   }
+  }
+ ],
+ "private": true,
+ "rights": "private-1to1",
+ "seconds": 65.2
+}
