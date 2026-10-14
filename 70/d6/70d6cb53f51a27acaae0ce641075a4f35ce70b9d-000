@@ -1,0 +1,115 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-see-exactly",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "See exactly what you sign",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-see-exactly/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 100.3258,
+  "tracking_em": -0.027122,
+  "deltas_px": [
+    0.0534,
+    0.199,
+    -1.2524,
+    0.0457,
+    1.0222,
+    0.0376,
+    -0.7061,
+    0.0457,
+    2.0493,
+    -0.0594,
+    -0.9903,
+    -1.1147,
+    -0.1874,
+    0.203,
+    0.63,
+    -1.9849,
+    0.612,
+    0.9951,
+    0.1422,
+    -0.0836,
+    0.3331,
+    0.0309,
+    0.1149,
+    -0.0583,
+    0.0
+  ],
+  "origin_px": [
+    394.758,
+    571.587
+  ],
+  "blur_px": 0.3558,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      427.42,
+      486.26,
+      545.11,
+      603.95,
+      662.79,
+      721.63,
+      780.47,
+      839.32,
+      898.16,
+      957.0,
+      1015.84,
+      1074.68,
+      1133.53,
+      1192.37,
+      1251.21,
+      1310.05,
+      1368.89,
+      1427.74,
+      1486.58
+    ],
+    "gain": [
+      0.9882,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9673,
+      0.8941,
+      0.8431,
+      0.8118,
+      0.8078,
+      0.8078,
+      0.8078,
+      0.8078,
+      0.8078,
+      0.8078
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 25.8333,
+    "region": [
+      160,
+      470,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      20,
+      226,
+      133,
+      1368
+    ]
+  }
+}

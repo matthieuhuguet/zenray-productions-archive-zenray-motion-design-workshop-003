@@ -1,0 +1,89 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-quantum-ready",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Quantum ready",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 509.19890756347087
+    }
+  },
+  "size_px": 96.921,
+  "tracking_em": 0.014483,
+  "deltas_px": [
+    -0.6912,
+    0.6664,
+    0.5829,
+    1.0677,
+    -1.4373,
+    0.3417,
+    -0.9676,
+    -0.9676,
+    0.4272,
+    1.0874,
+    0.8841,
+    -2.7549,
+    0.0
+  ],
+  "origin_px": [
+    609.808,
+    919.65
+  ],
+  "blur_px": 0.4476,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      645.18,
+      707.55,
+      769.91,
+      832.27,
+      894.64,
+      957.0,
+      1019.36,
+      1081.73,
+      1144.09,
+      1206.45,
+      1268.82
+    ],
+    "gain": [
+      0.9712,
+      0.9987,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.919,
+      0.851
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 16.4,
+    "region": [
+      160,
+      820,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      19,
+      442,
+      132,
+      1152
+    ]
+  }
+}

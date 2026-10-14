@@ -1,0 +1,106 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-open-source",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Open source firmware",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 520.1842587568453
+    }
+  },
+  "size_px": 96.054,
+  "tracking_em": 0.006608,
+  "deltas_px": [
+    -0.7938,
+    0.2879,
+    1.2473,
+    -1.397,
+    -0.446,
+    0.4394,
+    1.1975,
+    0.4353,
+    1.2076,
+    0.5485,
+    -0.5889,
+    -0.5889,
+    -3.6097,
+    -0.3611,
+    2.0825,
+    -0.1281,
+    -0.2484,
+    0.9415,
+    1.0155,
+    0.0
+  ],
+  "origin_px": [
+    468.345,
+    570.641
+  ],
+  "blur_px": 0.3775,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      502.38,
+      563.12,
+      623.88,
+      684.62,
+      745.38,
+      806.12,
+      866.88,
+      927.62,
+      988.38,
+      1049.12,
+      1109.88,
+      1170.62,
+      1231.38,
+      1292.12,
+      1352.88,
+      1413.62
+    ],
+    "gain": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9503,
+      0.8562,
+      0.8131,
+      0.8078,
+      0.8092,
+      0.8039,
+      0.8078,
+      0.8092,
+      0.8078,
+      0.8078
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 55.8,
+    "region": [
+      160,
+      460,
+      1600,
+      160
+    ],
+    "crop_box_tlbr": [
+      30,
+      300,
+      143,
+      1296
+    ]
+  }
+}

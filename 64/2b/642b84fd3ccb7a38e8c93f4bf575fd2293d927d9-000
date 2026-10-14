@@ -1,0 +1,105 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-quantum-ready",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Quantum ready",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 900.0
+    }
+  },
+  "size_px": 149.2587,
+  "tracking_em": 0.009348,
+  "deltas_px": [
+    -0.5216,
+    0.5993,
+    -0.5888,
+    0.6197,
+    1.2694,
+    1.059,
+    -1.1927,
+    -1.1927,
+    -0.2921,
+    -1.6933,
+    1.6359,
+    0.8993,
+    0.0
+  ],
+  "origin_px": [
+    115.624,
+    934.832
+  ],
+  "blur_px": 7.3228,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      190.0,
+      250.0,
+      310.0,
+      370.0,
+      430.0,
+      490.0,
+      550.0,
+      610.0,
+      670.0,
+      730.0,
+      790.0,
+      850.0,
+      910.0,
+      970.0,
+      1030.0,
+      1090.0,
+      1150.0,
+      1210.0,
+      1270.0
+    ],
+    "gain": [
+      0.9882,
+      0.9882,
+      0.9922,
+      0.9922,
+      0.9961,
+      0.9961,
+      1.0,
+      0.949,
+      0.966,
+      0.9974,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9739,
+      0.8784,
+      0.8314
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 16.4,
+    "region": [
+      160,
+      820,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      0,
+      0,
+      150,
+      1152
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+ "variation_of": "V_001",
+ "set": {
+  "text": "ZenRay Pro 3",
+  "font.axes.wght": 500,
+  "colour": "#c84523",
+  "lightmap": null
+ },
+ "iou_vs_parent": 0.2411,
+ "colour_parent": "#ffffff",
+ "colour": "#c84523",
+ "changed": true,
+ "date": "12 October 2026"
+}

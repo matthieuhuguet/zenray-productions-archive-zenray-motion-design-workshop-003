@@ -1,0 +1,98 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-smoother",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Smoother. Clearer.",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-smoother/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 97.4293,
+  "tracking_em": 0.002481,
+  "deltas_px": [
+    -0.0031,
+    0.0057,
+    -0.3333,
+    0.3791,
+    0.0382,
+    -0.1219,
+    -0.0937,
+    -0.0565,
+    -0.2811,
+    -0.0444,
+    0.0539,
+    -0.0441,
+    0.3692,
+    0.0014,
+    -0.0362,
+    -0.018,
+    0.0106,
+    0.2368
+  ],
+  "origin_px": [
+    542.711,
+    571.17
+  ],
+  "blur_px": 0.3566,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      576.29,
+      634.86,
+      693.43,
+      752.0,
+      810.57,
+      869.14,
+      927.71,
+      986.29,
+      1044.86,
+      1103.43,
+      1162.0,
+      1220.57,
+      1279.14,
+      1337.71
+    ],
+    "gain": [
+      1.0,
+      0.8353,
+      0.8078,
+      0.8118,
+      0.8078,
+      0.8039,
+      0.8078,
+      0.8039,
+      0.8039,
+      0.8039,
+      0.8078,
+      0.8039,
+      0.8078,
+      0.8039
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 57.0,
+    "region": [
+      160,
+      450,
+      1600,
+      170
+    ],
+    "crop_box_tlbr": [
+      40,
+      375,
+      134,
+      1219
+    ]
+  }
+}

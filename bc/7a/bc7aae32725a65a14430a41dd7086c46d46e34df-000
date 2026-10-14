@@ -1,0 +1,107 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-ultra-crips",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Ultra-crips display",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 756.6227616472127
+    }
+  },
+  "size_px": 121.1381,
+  "tracking_em": 0.009561,
+  "deltas_px": [
+    0.2138,
+    -1.4033,
+    0.5803,
+    -1.056,
+    -0.2134,
+    -0.7455,
+    1.6128,
+    1.6743,
+    -0.7949,
+    -1.8333,
+    0.4323,
+    0.4323,
+    5.2383,
+    -0.1413,
+    -2.7417,
+    -0.2886,
+    -1.142,
+    -2.4895,
+    0.0
+  ],
+  "origin_px": [
+    316.159,
+    574.532
+  ],
+  "blur_px": 3.7405,
+  "colour": "#fffffe",
+  "lightmap": {
+    "x_px": [
+      337.76,
+      399.29,
+      460.82,
+      522.35,
+      583.88,
+      645.41,
+      706.94,
+      768.47,
+      830.0,
+      891.53,
+      953.06,
+      1014.59,
+      1076.12,
+      1137.65,
+      1199.18,
+      1260.71,
+      1322.24
+    ],
+    "gain": [
+      0.8743,
+      0.8678,
+      0.9224,
+      0.9224,
+      0.9849,
+      0.949,
+      1.0,
+      1.0,
+      1.0,
+      0.9882,
+      0.9895,
+      0.9503,
+      0.9097,
+      0.8534,
+      0.8325,
+      0.8141,
+      0.822
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 13.8,
+    "region": [
+      160,
+      470,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      20,
+      135,
+      150,
+      1205
+    ]
+  }
+}

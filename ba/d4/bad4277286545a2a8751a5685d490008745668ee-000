@@ -1,0 +1,36 @@
+{
+ "iou_soft": 0.87857,
+ "iou_hard": 0.91916,
+ "edge_mean_px": 0.4668,
+ "edge_p95_px": 1.5621,
+ "dE2000_band_mean": 8.278,
+ "dE2000_band_p95": 39.19,
+ "dE2000_core_mean": 2.227,
+ "weighted_px": 79677,
+ "hidden_px": 553,
+ "match": false,
+ "svg_vs_render_iou": 0.99906,
+ "fit_history": [
+  {
+   "stage": "nm sigma 2.0",
+   "loss": 0.090751
+  },
+  {
+   "stage": "nm sigma 0.8",
+   "loss": 0.108427
+  },
+  {
+   "stage": "nm sigma 0.0",
+   "loss": 0.122198
+  },
+  {
+   "stage": "deltas round 1",
+   "loss": 0.12141
+  },
+  {
+   "stage": "deltas round 2",
+   "loss": 0.121407
+  }
+ ],
+ "date": "12 October 2026"
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-title-small",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "OneKey Pro 2",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-title-small/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 53.4652,
+  "tracking_em": -0.00561,
+  "deltas_px": [
+    0.025,
+    -0.0108,
+    1.1656,
+    -0.0246,
+    -1.1716,
+    0.0134,
+    -0.1856,
+    -0.0271,
+    -0.0131,
+    0.0258,
+    0.2248,
+    0.0
+  ],
+  "origin_px": [
+    764.036,
+    165.408
+  ],
+  "blur_px": 0.6129,
+  "colour": "#cccbd3",
+  "lightmap": {
+    "x_px": [
+      795.92,
+      853.75,
+      911.58,
+      969.42,
+      1027.25,
+      1085.08
+    ],
+    "gain": [
+      0.9078,
+      0.8997,
+      0.9078,
+      0.979,
+      0.979,
+      1.0
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 58.7333,
+    "region": [
+      740,
+      100,
+      400,
+      100
+    ],
+    "crop_box_tlbr": [
+      13,
+      15,
+      89,
+      386
+    ]
+  }
+}

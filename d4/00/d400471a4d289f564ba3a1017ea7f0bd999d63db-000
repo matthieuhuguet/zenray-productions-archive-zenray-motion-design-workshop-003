@@ -1,0 +1,99 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-on-device",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "On-device portfolio",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-on-device/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 96.7002,
+  "tracking_em": -0.001984,
+  "deltas_px": [
+    -0.0185,
+    0.0811,
+    -0.0413,
+    -0.0233,
+    0.5055,
+    0.0094,
+    -0.2783,
+    0.0013,
+    -0.4668,
+    0.0017,
+    -0.0326,
+    -0.0175,
+    -0.0866,
+    -0.006,
+    0.0017,
+    0.2539,
+    0.086,
+    0.1587,
+    -0.1574
+  ],
+  "origin_px": [
+    527.196,
+    919.995
+  ],
+  "blur_px": 0.3651,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      562.32,
+      622.96,
+      683.61,
+      744.25,
+      804.89,
+      865.54,
+      926.18,
+      986.82,
+      1047.46,
+      1108.11,
+      1168.75,
+      1229.39,
+      1290.04,
+      1350.68
+    ],
+    "gain": [
+      0.8235,
+      0.8196,
+      0.8144,
+      0.8209,
+      0.8235,
+      0.8157,
+      0.8248,
+      0.8183,
+      0.8222,
+      0.8235,
+      0.8314,
+      0.8824,
+      0.9882,
+      1.0
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 52.8,
+    "region": [
+      160,
+      820,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      19,
+      360,
+      132,
+      1233
+    ]
+  }
+}

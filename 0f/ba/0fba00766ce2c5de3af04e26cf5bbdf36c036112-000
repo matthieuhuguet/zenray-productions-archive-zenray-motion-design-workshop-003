@@ -1,0 +1,100 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-smoother",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Smoother. Clearer.",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 533.5005465601831
+    }
+  },
+  "size_px": 97.3869,
+  "tracking_em": 0.003009,
+  "deltas_px": [
+    -0.2019,
+    0.7569,
+    0.1414,
+    0.9241,
+    -1.7022,
+    -0.0051,
+    0.5475,
+    0.3689,
+    -0.8289,
+    -0.8289,
+    -0.3079,
+    -0.567,
+    1.1156,
+    0.7537,
+    0.7195,
+    0.647,
+    1.0362,
+    0.0
+  ],
+  "origin_px": [
+    542.36,
+    571.013
+  ],
+  "blur_px": 0.37,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      576.29,
+      634.86,
+      693.43,
+      752.0,
+      810.57,
+      869.14,
+      927.71,
+      986.29,
+      1044.86,
+      1103.43,
+      1162.0,
+      1220.57,
+      1279.14,
+      1337.71
+    ],
+    "gain": [
+      1.0,
+      0.8353,
+      0.8078,
+      0.8118,
+      0.8078,
+      0.8039,
+      0.8078,
+      0.8039,
+      0.8039,
+      0.8039,
+      0.8078,
+      0.8039,
+      0.8078,
+      0.8039
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 57.0,
+    "region": [
+      160,
+      450,
+      1600,
+      170
+    ],
+    "crop_box_tlbr": [
+      40,
+      375,
+      134,
+      1219
+    ]
+  }
+}

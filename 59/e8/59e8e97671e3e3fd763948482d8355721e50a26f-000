@@ -1,0 +1,49 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-title",
+  "kind": "text",
+  "family": "title",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "ZenRay Pro 3",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/PlusJakartaSans/PlusJakartaSans[wght].ttf",
+    "family": "PlusJakartaSans",
+    "axes": {
+      "wght": 500
+    }
+  },
+  "size_px": 238.1192,
+  "tracking_em": 0.00546,
+  "deltas_px": null,
+  "origin_px": [
+    156.162,
+    638.95
+  ],
+  "blur_px": 1.5,
+  "colour": "#c84523",
+  "lightmap": null,
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 4.9,
+    "region": [
+      150,
+      420,
+      1620,
+      230
+    ],
+    "crop_box_tlbr": [
+      0,
+      8,
+      230,
+      1602
+    ]
+  },
+  "variation_of": "V_001"
+}

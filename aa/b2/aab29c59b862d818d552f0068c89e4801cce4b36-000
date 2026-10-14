@@ -1,0 +1,8 @@
+{
+  "version": "V_004",
+  "parent": "V_003",
+  "created": "13 October 2026, 09:45",
+  "note": "F3: Figtree, blur bounded to 1.5 px",
+  "author": "zrmd",
+  "overrides": {}
+}

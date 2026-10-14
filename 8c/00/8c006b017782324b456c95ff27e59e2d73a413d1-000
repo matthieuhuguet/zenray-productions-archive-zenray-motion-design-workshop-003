@@ -1,0 +1,80 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-safeos",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "safeOS 2",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/Figtree/Figtree[wght].ttf",
+    "family": "Figtree",
+    "axes": {
+      "wght": 544.3389270363787
+    }
+  },
+  "size_px": 127.8058,
+  "tracking_em": 0.006095,
+  "deltas_px": [
+    -0.5664,
+    1.0025,
+    -0.3995,
+    0.6473,
+    -1.1629,
+    -0.4103,
+    -0.4103,
+    0.0
+  ],
+  "origin_px": [
+    175.191,
+    589.449
+  ],
+  "blur_px": 0.4061,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      206.83,
+      264.5,
+      322.17,
+      379.83,
+      437.5,
+      495.17,
+      552.83,
+      610.5,
+      668.17
+    ],
+    "gain": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9843
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 54.2667,
+    "region": [
+      120,
+      490,
+      700,
+      170
+    ],
+    "crop_box_tlbr": [
+      0,
+      46,
+      113,
+      589
+    ]
+  }
+}

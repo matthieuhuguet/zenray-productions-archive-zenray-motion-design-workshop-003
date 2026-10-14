@@ -1,0 +1,104 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-open-source",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Open source firmware",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-open-source/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 95.9969,
+  "tracking_em": 0.006924,
+  "deltas_px": [
+    0.1323,
+    -0.0851,
+    0.9517,
+    -0.011,
+    0.0245,
+    0.0716,
+    -0.0884,
+    0.222,
+    -0.4081,
+    0.0184,
+    -0.8586,
+    -0.028,
+    0.2258,
+    -0.1252,
+    0.4704,
+    0.0101,
+    0.0294,
+    0.1458,
+    -0.6239,
+    -0.1036
+  ],
+  "origin_px": [
+    468.089,
+    570.997
+  ],
+  "blur_px": 0.3478,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      502.38,
+      563.12,
+      623.88,
+      684.62,
+      745.38,
+      806.12,
+      866.88,
+      927.62,
+      988.38,
+      1049.12,
+      1109.88,
+      1170.62,
+      1231.38,
+      1292.12,
+      1352.88,
+      1413.62
+    ],
+    "gain": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9503,
+      0.8562,
+      0.8131,
+      0.8078,
+      0.8092,
+      0.8039,
+      0.8078,
+      0.8092,
+      0.8078,
+      0.8078
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 55.8,
+    "region": [
+      160,
+      460,
+      1600,
+      160
+    ],
+    "crop_box_tlbr": [
+      30,
+      300,
+      143,
+      1296
+    ]
+  }
+}

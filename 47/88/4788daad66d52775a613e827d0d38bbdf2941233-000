@@ -1,0 +1,99 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-ultra-crips",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Ultra-crips display",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/AlbertSans/AlbertSans[wght].ttf",
+    "family": "AlbertSans",
+    "axes": {
+      "wght": 526.180351685766
+    }
+  },
+  "size_px": 97.3979,
+  "tracking_em": -0.018347,
+  "deltas_px": [
+    -0.419,
+    2.1845,
+    2.6991,
+    1.8241,
+    -3.6714,
+    -2.6848,
+    1.1669,
+    0.5355,
+    0.0307,
+    0.0814,
+    -1.2665,
+    -1.2665,
+    -0.3294,
+    -0.834,
+    0.3563,
+    1.3033,
+    1.5289,
+    1.9427,
+    0.0
+  ],
+  "origin_px": [
+    556.989,
+    571.003
+  ],
+  "blur_px": 1.4975,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      595.31,
+      655.92,
+      716.54,
+      777.15,
+      837.77,
+      898.38,
+      959.0,
+      1019.62,
+      1080.23,
+      1140.85,
+      1201.46,
+      1262.08,
+      1322.69
+    ],
+    "gain": [
+      0.8366,
+      0.8261,
+      0.8902,
+      0.9621,
+      0.9987,
+      0.9961,
+      1.0,
+      0.9987,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9824
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 14.0,
+    "region": [
+      160,
+      470,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      20,
+      393,
+      133,
+      1205
+    ]
+  }
+}

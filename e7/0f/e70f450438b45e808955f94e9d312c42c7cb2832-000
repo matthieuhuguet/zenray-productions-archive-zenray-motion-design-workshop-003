@@ -1,0 +1,118 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-title",
+  "kind": "text",
+  "family": "title",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "OneKey Pro 2",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign/datasets/fonts/files/PlusJakartaSans/PlusJakartaSans[wght].ttf",
+    "family": "PlusJakartaSans",
+    "axes": {
+      "wght": 708.1786277835419
+    }
+  },
+  "size_px": 238.1192,
+  "tracking_em": 0.00546,
+  "deltas_px": [
+    -1.6253,
+    2.8511,
+    0.4027,
+    -1.2204,
+    -0.1438,
+    -0.1438,
+    -0.1438,
+    -1.114,
+    -0.0174,
+    7.4365,
+    7.4365,
+    0.0
+  ],
+  "origin_px": [
+    156.162,
+    638.95
+  ],
+  "blur_px": 1.5,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      200.19,
+      260.58,
+      320.96,
+      381.35,
+      441.73,
+      502.12,
+      562.5,
+      622.88,
+      683.27,
+      743.65,
+      804.04,
+      864.42,
+      924.81,
+      985.19,
+      1045.58,
+      1105.96,
+      1166.35,
+      1226.73,
+      1287.12,
+      1347.5,
+      1407.88,
+      1468.27,
+      1528.65,
+      1589.04,
+      1649.42,
+      1709.81
+    ],
+    "gain": [
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9922,
+      1.0,
+      0.9922,
+      0.9961,
+      0.9961,
+      0.9922,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.7294,
+      0.6902,
+      0.9948,
+      1.0,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961,
+      0.9961
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 4.9,
+    "region": [
+      150,
+      420,
+      1620,
+      230
+    ],
+    "crop_box_tlbr": [
+      0,
+      8,
+      230,
+      1602
+    ]
+  }
+}

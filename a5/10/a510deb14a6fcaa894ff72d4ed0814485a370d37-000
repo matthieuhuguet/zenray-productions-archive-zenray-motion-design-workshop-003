@@ -1,0 +1,130 @@
+{
+ "date": "13 October 2026",
+ "rule": {
+  "iou_min": 0.99,
+  "edge_mean_max_px": 0.5,
+  "colour_mae_max": 2.0,
+  "colour_p99_max": 24
+ },
+ "layers": [
+  {
+   "id": "L01",
+   "kind": "path",
+   "iou": 0.993834,
+   "edge_mean": 0.0196,
+   "edge_p95": 0.046,
+   "ok": true
+  },
+  {
+   "id": "L02",
+   "kind": "path",
+   "iou": 0.986003,
+   "edge_mean": 0.0406,
+   "edge_p95": 0.0792,
+   "ok": false
+  },
+  {
+   "id": "L03",
+   "kind": "path",
+   "iou": 0.98819,
+   "edge_mean": 0.0312,
+   "edge_p95": 0.0635,
+   "ok": false
+  },
+  {
+   "id": "L04",
+   "kind": "path",
+   "iou": 0.987596,
+   "edge_mean": 0.0377,
+   "edge_p95": 0.0771,
+   "ok": false
+  },
+  {
+   "id": "L05",
+   "kind": "path",
+   "iou": 0.987228,
+   "edge_mean": 0.0379,
+   "edge_p95": 0.0744,
+   "ok": false
+  },
+  {
+   "id": "L06",
+   "kind": "path",
+   "iou": 0.98572,
+   "edge_mean": 0.0328,
+   "edge_p95": 0.0585,
+   "ok": false
+  },
+  {
+   "id": "L07",
+   "kind": "path",
+   "iou": 0.993116,
+   "edge_mean": 0.019,
+   "edge_p95": 0.0503,
+   "ok": true
+  },
+  {
+   "id": "L08",
+   "kind": "path",
+   "iou": 0.993158,
+   "edge_mean": 0.0179,
+   "edge_p95": 0.0353,
+   "ok": true
+  },
+  {
+   "id": "L09",
+   "kind": "path",
+   "iou": 0.986284,
+   "edge_mean": 0.0103,
+   "edge_p95": 0.0207,
+   "ok": false
+  },
+  {
+   "id": "L10",
+   "kind": "path",
+   "iou": 0.992844,
+   "edge_mean": 0.0103,
+   "edge_p95": 0.019,
+   "ok": true
+  },
+  {
+   "id": "L11",
+   "kind": "path",
+   "iou": 0.98514,
+   "edge_mean": 0.0069,
+   "edge_p95": 0.0154,
+   "ok": false
+  }
+ ],
+ "colour": {
+  "mae": 0.1137,
+  "p99": 3.0,
+  "max": 26.0,
+  "share_over_16": 0.000325
+ },
+ "layers_ok": false,
+ "colour_ok": true,
+ "pass": false,
+ "worst_layer": {
+  "id": "L11",
+  "kind": "path",
+  "iou": 0.98514,
+  "edge_mean": 0.0069,
+  "edge_p95": 0.0154,
+  "ok": false
+ },
+ "min_iou": 0.98514,
+ "max_edge_mean": 0.0406,
+ "f3": {
+  "iou_soft": 0.98781,
+  "iou_hard": 0.99545,
+  "edge_mean_px": 0.0298,
+  "edge_p95_px": 0.066,
+  "dE2000_band_mean": 0.527,
+  "dE2000_band_p95": 2.693,
+  "dE2000_core_mean": 0.298,
+  "weighted_px": 240000,
+  "hidden_px": 0,
+  "match": false
+ }
+}

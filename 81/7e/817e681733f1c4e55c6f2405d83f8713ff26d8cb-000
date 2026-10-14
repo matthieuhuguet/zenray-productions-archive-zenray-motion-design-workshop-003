@@ -1,0 +1,8 @@
+{
+  "version": "V_002",
+  "parent": "V_001",
+  "created": "13 October 2026, 10:28",
+  "note": "variation of V_001: {'text': 'ZenRay Pro 3', 'font.axes.wght': 500, 'colour': '#c84523', 'lightmap': None}",
+  "author": "zrmd",
+  "overrides": {}
+}

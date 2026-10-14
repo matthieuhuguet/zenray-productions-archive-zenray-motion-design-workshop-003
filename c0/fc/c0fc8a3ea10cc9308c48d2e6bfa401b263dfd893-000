@@ -1,0 +1,97 @@
+{
+  "schema": "zrmd/mark@1",
+  "date": "12 October 2026",
+  "slug": "onekey-pro-2",
+  "mark": "t-ultra-crips",
+  "kind": "text",
+  "family": "caption",
+  "rights": "private-1to1",
+  "rights_note": "1:1 benchmark of a third-party mark, private, never published (Rules.md, 12 October 2026)",
+  "text": "Ultra-crips display",
+  "font": {
+    "file": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/fonts/onekey-f3-t-ultra-crips/V_002/font.ttf",
+    "family": "V_002",
+    "axes": {}
+  },
+  "size_px": 96.3192,
+  "tracking_em": -0.013643,
+  "deltas_px": [
+    0.0083,
+    0.229,
+    -0.0273,
+    1.0266,
+    -2.3722,
+    -0.0622,
+    0.0578,
+    -1.0105,
+    0.342,
+    -0.4231,
+    -0.8018,
+    0.0217,
+    0.0406,
+    -0.4467,
+    0.818,
+    0.2182,
+    -0.1397,
+    2.5451,
+    0.0
+  ],
+  "origin_px": [
+    556.85,
+    571.229
+  ],
+  "blur_px": 0.3812,
+  "colour": "#ffffff",
+  "lightmap": {
+    "x_px": [
+      595.31,
+      655.92,
+      716.54,
+      777.15,
+      837.77,
+      898.38,
+      959.0,
+      1019.62,
+      1080.23,
+      1140.85,
+      1201.46,
+      1262.08,
+      1322.69
+    ],
+    "gain": [
+      0.8366,
+      0.8261,
+      0.8902,
+      0.9621,
+      0.9987,
+      0.9961,
+      1.0,
+      0.9987,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9824
+    ]
+  },
+  "opacity": 1.0,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source": {
+    "time_s": 14.0,
+    "region": [
+      160,
+      470,
+      1600,
+      150
+    ],
+    "crop_box_tlbr": [
+      20,
+      393,
+      133,
+      1205
+    ]
+  }
+}
